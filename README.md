@@ -1,5 +1,5 @@
-<!--**ROHITH 106117041**-->
-
+<!--ROHITH 106117041-->
+<!--KANCHI 106117041-->
 # Sorting.cpp
 def partition(A, p, r):  
    q = j = p  
